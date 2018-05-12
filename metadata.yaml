@@ -1,0 +1,33 @@
+_repo: Evolution-Old--amp--Newas-compared-with-that-of-Charles-Darwin_23427
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, Samuel
+    alias: Cellarius
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '748'
+    url: http://www.gutenberg.org/2009/agents/748
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2007-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution (Biology) -- History'
+- !lcc 'QH'
+title: 'Evolution, Old & New
+
+  Or, the Theories of Buffon, Dr. Erasmus Darwin and Lamarck,
+
+  as compared with that of Charles Darwin'
+url: http://www.gutenberg.org/ebooks/23427
